@@ -1,4 +1,6 @@
 module Paramable
-  InstanceMethods
+  module InstanceMethods
+    
+    def 
   
   
