@@ -9,8 +9,6 @@ class Song
 
   @@songs = []
 
-  def initialize
-  end
 
   
 
